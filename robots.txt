@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.qfl-dodoma.com/sitemap.xml

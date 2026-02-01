@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Quality Foam Limited",
+  "headline": "Quality Foam Limited - Professional Foam Products",
+  "description": "Quality Foam Limited offers premium foam products for industrial and consumer use.",
+  "url": "https://www.qfl-dodoma.com/",
+  "logo": "/logo.png",
+  "author": {
+    "@type": "Person",
+    "name": "Sam Software",
+    "url": "https://simonsoftware.xyz",
+    "image": "https://api.omendapipays.shop/assets/image/ceo1.jpg",
+    "sameAs": [
+      "https://www.facebook.com/samochuu",
+      "https://www.tiktok.com/@samochu"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+255 778 760 701",
+    "contactType": "Customer Service"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Quality Foam Limited",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/logo.png"
+    }
+  },
+  "sameAs": [
+  ""
+  ]
+}
